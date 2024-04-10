@@ -1,0 +1,3 @@
+EXERCISE := gigasecond
+
+include ../Makefile
