@@ -1,0 +1,3 @@
+EXERCISE := clock
+
+include ../Makefile
